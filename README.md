@@ -212,3 +212,6 @@
 ```
 ---
 txt文档[参阅](list.txt)
+
+## 相关链接
+- [Cterm（使用Telnet）下载](https://github.com/anbangli/cterm/releases)
