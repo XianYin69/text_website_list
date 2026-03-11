@@ -128,7 +128,7 @@
         <tr>
             <td>1</td>
             <td>率</td>
-            <td>brate.sx</td>
+            <td>rate.sx</td>
             <td>✅</td>
             <td>加密货币实时价格</td>
         </tr>
