@@ -1,0 +1,33 @@
+finger-站点
+序号    用户名          主机名              名字            是否需要挂梯子  备注
+1       lobsters        typed-hole.org      敲击洞          F               查看科技资讯
+2                       happynetbox.com     快乐盒子        F               一个复兴finger协议的网站
+3
+
+Telnet-站点
+序号    网址            端口号  名字        是否需要挂梯子                备注
+1       bbs.mysmth.net 23       水木清华    F                            清华大学BBS
+2       ticker.bitconticker.co    10080       比特币价格    F                            实时比特币价格
+3       telehack.com   23       Telehack    F                           模拟终端
+4       freechess.org  23       国际象棋    F                            游戏mud
+5       aardmud.org    23       狼叫        F                           游戏（RPG）mud
+6       mud.pkuxkx.net 8080     北大侠客行  F                               mud游戏（MMORPG）
+7       telnet.wiki.gd 23       维基百科    F（可以访问但是搜索需要挂梯子）                               带AI功能
+8 
+
+curl-站点
+序号    网址            名字        是否需要挂梯子                  备注
+1       rate.sx         率          F                               加密货币实时价格
+2       cip.cc          查网络地址  F                               查看地址
+3       v1.hitoko.cn/?encode=text  F                                每日一句
+4       v2.wttr.in/CITY_NAME       F                                天气网站 CITY_NAME为城市全称的英文名
+5       dict.org/d:WORD 词典        F                               WORD是要查的词语
+
+
+可通过纯文本浏览器(w3m)访问-站点
+序号    URL                             名称                是否需要挂梯子  备注
+1       www.duckduckgo.com              DuckDuckGo          T               完美支持文本浏览的搜索引擎
+2       cn.bing.com                     必应                F               在国内比百度好
+3       text.npr.org                    美国全国广播电台     F              看美国新闻
+4       www.xinhuanet.com               新华网              F               看中国新闻
+5
