@@ -4,6 +4,10 @@
 -   多数是中文，一部分是英文
 -   收录Finger, Telnet, curl和可以通过w3c浏览器浏览使用的站点
 
+```
+注：纯文本浏览器推荐在Linux环境下使用w3c，同时我推荐使用Linux访问这些站点
+```
+
 ## 站点列表
 
 ### Finger站点
@@ -35,6 +39,14 @@
             <td>happynetbox.com</td>
             <td>✅</td>
             <td>一个复兴finger协议的网站</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>天气图</td>
+            <td>CITY</td>
+            <td>graph.no</td>
+            <td>✅</td>
+            <td>CITY为城市的英文名</td>
         </tr>
     </table>
 </html>
@@ -106,8 +118,40 @@
             <td>维基百科</td>
             <td>telnet.wiki.gd</td>
             <td>23</td>
-            <td>⚠️（可以访问但是搜索需要挂梯子）</td>
+            <td>⚠️（可以访问但是无法使用）</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>怀旧校园</td>
+            <td>bbs.retrocampus.com</td>
+            <td>23</td>
+            <td>⚠️（需要挂梯子）</td>
+            <td>新千年工具合集，注意：这个站点推荐在80年代终端和Linux上使用</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>爱迪生中心</td>
+            <td>1984.ws</td>
+            <td>23</td>
+            <td>✅</td>
+            <td>一个有趣的外星人研究人类的演示</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>彩虹猫</td>
+            <td>halite.md.vc</td>
+            <td>23</td>
+            <td>✅</td>
+            <td>一个彩虹猫演示</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>ISCA BBS</td>
+            <td>bbs.iscabbs.com</td>
+            <td>23</td>
+            <td>✅</td>
+            <td>一个国际性BBS</td>
         </tr>
     </table>
 </html>
@@ -203,6 +247,13 @@
             <td>www.xinhuanet.com</td>
             <td>✅</td>
             <td>看中国新闻</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>谷歌新闻（使用基础HTML）</td>
+            <td>68k.news</td>
+            <td>✅</td>
+            <td>看新闻</td>
         </tr>
     </table>
 </html>
